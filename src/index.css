@@ -1,0 +1,18 @@
+#dies-btn{
+  width: 175px;
+  height: 200px;
+  color:whitesmoke;
+  border: 2px solid;
+}
+
+#text{
+  position: relative;;
+  top: 26%;
+  font-size: 50px;
+  font-weight: 700;
+}
+#main-container{
+  background-color:blueviolet;
+  height: 800px;
+  border-radius: 30px;
+}
